@@ -1,3 +1,6 @@
+Todo done with React Meteor using the tutorial below:
+https://react-tutorial.meteor.com/
+
 # Starting point
 The Meteor React Tutorial is where to start learning the basics of Meteor with React.
 

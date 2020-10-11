@@ -1,0 +1,10 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "Your MongoDB URL"
+    }
+  }
+}
+
+// Run the deploy command:
+// meteor deploy react-tutorial.meteorapp.com --settings private/settings.json
